@@ -1,5 +1,0 @@
-#Objects
-#Class
-#Example of class
-
-
